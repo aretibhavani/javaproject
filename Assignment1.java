@@ -27,7 +27,7 @@ void m1() //1st method without static
 	}
 	public static void main(String[] agrs)
 	{
-		 Assignment1 obj=new  Assignment1();
+		 Assignment1 obj=new  Assignment1(); //object creation
 	obj.m1();
 	obj.m2();
 	
