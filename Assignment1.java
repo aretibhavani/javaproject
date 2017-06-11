@@ -17,9 +17,9 @@ void m1() //1st method without static
 
 	static void m2()  //2nd method with static keyword,since it is a static we have to creat an obj
 	{ 
-		Assignment1 obj2=new  Assignment1();
+		Assignment1 obj2=new  Assignment1();  //object creation
 
-		  System.out.println(obj2.a);
+		  System.out.println(obj2.a);  
 		  System.out.println(obj2.name);
 		  System.out.println(b);
 	      System.out.println(firstname);
